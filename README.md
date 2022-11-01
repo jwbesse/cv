@@ -6,8 +6,8 @@ Training Fellow @ Center for Data, Culture and Society
 <b><i>Research projects</b></i>
   
 Edinburgh Digital Due Process Clinic (Edinburgh University Law School, Free Legal Advice Centre), 2021-2022.
-Organized an experimental law clinic with the Edinburgh Free Legal Advice Centre, teaching students how to review and conduct advocacy around smart campus projects.
-Conducted
+  
+Digital Status Report Form (Collaboration with the3million), 2020-2022.
 
 Cambridge/Google Oak Smart Campus Project (Design Informatics, University of Edinburgh; School of Computing, University of Glasgow; Department of Computer Science, Cambridge University), 2021.
 
