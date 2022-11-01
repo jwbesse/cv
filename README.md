@@ -1,9 +1,10 @@
-<span style="font-family: 'Times New Roman'">
+<p style="font-family: times, serif">
 PhD candidate @ University of Edinburgh (Science, Technology and Innovation Studies)
 
 Training Fellow @ Center for Data, Culture and Society
 
 <b><i>Research projects</b></i>
+  
 Edinburgh Digital Due Process Clinic (Edinburgh University Law School, Free Legal Advice Centre), 2021-2022.
 Organized an experimental law clinic with the Edinburgh Free Legal Advice Centre, teaching students how to review and conduct advocacy around smart campus projects.
 Conducted
@@ -27,4 +28,4 @@ James.Besse {at} ed.ac.uk
 
 researchgate:
 https://www.researchgate.net/profile/James-Besse
-</span>
+</p>
