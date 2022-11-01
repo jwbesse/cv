@@ -4,4 +4,5 @@ plugins:
 github:
   is_project_page: false
 title: James Besse
+  color: black
 footer: None
