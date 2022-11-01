@@ -1,9 +1,4 @@
 theme: minima
 title: James Besse
 description: This website has an up-to-date record of the projects and publications I'm working on
-footer:
-  links:
-    - label: "Twitter"
-      url: "https://twitter.com"
-    - label: "GitHub"
-      url: "https://twitter.com"
+footer: None
