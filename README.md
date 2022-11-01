@@ -2,13 +2,17 @@ PhD candidate @ University of Edinburgh (Science, Technology and Innovation Stud
 
 Training Fellow @ Center for Data, Culture and Society
 
-## <i>Research projects</i>
+### Research projects
 
-## <i>Publications</i>
+### Publications
 
 
 
 To get in touch:
+
+email:
 James.Besse {at} ed.ac.uk
 
+researchgate:
+https://www.researchgate.net/profile/James-Besse
   
