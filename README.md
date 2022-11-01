@@ -1,7 +1,6 @@
-# James Besse
 PhD candidate @ University of Edinburgh (Science, Technology and Innovation Studies)
-Training Fellow @ Center for Data, Culture and Society
 
+Training Fellow @ Center for Data, Culture and Society
 
 James.Besse at ed.ac.uk
 
