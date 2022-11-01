@@ -2,8 +2,13 @@ PhD candidate @ University of Edinburgh (Science, Technology and Innovation Stud
 
 Training Fellow @ Center for Data, Culture and Society
 
-James.Besse at ed.ac.uk
+## <i>Research projects</i>
 
-Currently researching identity and access management for migration management 
+## <i>Publications</i>
+
+
+
+To get in touch:
+James.Besse {at} ed.ac.uk
 
   
